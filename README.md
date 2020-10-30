@@ -1,6 +1,8 @@
 # discord-emoji-loader
 Tired of being in servers only for emojis, dump them all using this nifty tool.
 
+### Usage
+
 Instructions:
 - Windows
   1. Open the executable from the [releases](https://github.com/discoli/discord-emoji-loader/releases/)
@@ -13,6 +15,6 @@ Instructions:
   3. Input your token
   4. Watch every emoji be dumped from within your guilds
 
-# Example:
+### Example:
 
 ![Image of Example](https://i.imgur.com/dQHcW8P.png)
