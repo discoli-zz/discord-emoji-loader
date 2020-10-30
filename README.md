@@ -13,5 +13,6 @@ Instructions:
   3. Input your token
   4. Watch every emoji be dumped from within your guilds
 
-Example:
+# Example:
+
 ![Image of Example](https://i.imgur.com/dQHcW8P.png)
