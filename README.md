@@ -12,3 +12,6 @@ Instructions:
   2. Type `./discord-emoji-loader(-osx)`
   3. Input your token
   4. Watch every emoji be dumped from within your guilds
+
+Example:
+![Image of Example](https://i.imgur.com/dQHcW8P.png)
